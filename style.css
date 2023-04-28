@@ -1,0 +1,11 @@
+h1 {
+    font-family: 'Dancing Script', cursive;
+}
+.carousel-item img {
+   
+}
+
+.Card-body img{
+min-width: 50%;
+max-height: 200px;
+}
